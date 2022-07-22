@@ -56,9 +56,8 @@ $custRow = $query->fetch_assoc();
 <img src="logo.png" /><br>
 <p><h1>OPM videojuegos</h1></p>
 
-<form action="http://localhost/carrito/log/inicio.html" method="post">
-<input type="submit" value="cerrar sesion
-">
+<form action="http://localhost/carrito/index.php" method="post">
+<input type="submit" value="cerrar sesion">
 
 
 </tr>
