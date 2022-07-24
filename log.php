@@ -21,7 +21,7 @@ $nr =mysqli_num_rows($query);
 
 if($nr==1)
 {
-header("Location:http://localhost/carrito/index.php");
+header("Location:http://localhost/carrito/index.php" target="_blank");
 
 echo"BIenvenido:" .$nombre;
 
